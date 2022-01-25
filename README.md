@@ -6,6 +6,5 @@
 KiCad design files for a 4-terminal chip carrier
 
 The chip carrier
-     
 * is designed for cryostat use
 * accomodates 1cm x 1cm chips
