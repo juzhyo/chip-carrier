@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.5,
-          "width": 1.5
+          "height": 2.5,
+          "width": 2.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -378,7 +378,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "chip-carrier.net",
+      "netlist": "chip-carrier-v02.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
