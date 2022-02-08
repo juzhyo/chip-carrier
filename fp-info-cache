@@ -1,4 +1,4 @@
-19834288096548324
+19835932323403083
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84498,6 +84498,13 @@ C2000
 1
 chip_carrier
 C2500
+
+
+0
+1
+1
+chip_carrier
+R2000X3000
 
 
 0

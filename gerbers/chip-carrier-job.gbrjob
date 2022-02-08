@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "6.0.1"
     },
-    "CreationDate": "2022-01-28T00:01:39+08:00"
+    "CreationDate": "2022-02-08T23:20:52+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "chip-carrier",
       "GUID": "63686970-2d63-4617-9272-6965722e6b69",
-      "Revision": "v02"
+      "Revision": "v03"
     },
     "Size": {
-      "X": 14.1,
-      "Y": 15.1
+      "X": 0.0,
+      "Y": 0.0
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
